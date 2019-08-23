@@ -1,13 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My Coding Blog
+author: Cbeg-76
+email: Carl.Begert@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a blog for HTML and CSS. I am starting out as well.
+ Please comment if anyone can provide any help to new coders or users.
+ All opinions are welcome and appreciated. Again thanks for stopping by!!
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: @BegertCarl
+github_username:  Cbeg-76
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
