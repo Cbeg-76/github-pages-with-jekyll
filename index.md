@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my coding blog!
 
-I'm glad you are here. I plan to talk about ...
+We will be talking about HTML and CSS. Again I just want to say welcome and enjoy!!
