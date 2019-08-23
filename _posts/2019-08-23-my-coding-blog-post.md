@@ -1,5 +1,5 @@
 ---
-title: My Coding Blog Post
+title: "My Coding Blog Post"
 date: 2019-08-23
 ---
 # My Coding Blog Post
